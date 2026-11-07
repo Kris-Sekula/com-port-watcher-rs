@@ -1,0 +1,3 @@
+target/
+*.log
+com_port_watcher_rs.cfg
