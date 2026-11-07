@@ -6,6 +6,8 @@ disappears — so plugging in a USB-to-serial adapter no longer
 means a trip to Device Manager (or `ls /dev/tty*`) just to learn
 which port it got.
 
+![ExampleNotification](https://github.com/Kris-Sekula/com-port-watcher-rs/blob/main/popup_example.png)
+
 One codebase builds for Windows, Linux and macOS. The Linux
 release binary is about 3.2 MB.
 
